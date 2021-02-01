@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "lib": ["es5", "es6"],
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "composite": false,
+    "strictFunctionTypes": true,
+    "declaration": false,
+    "removeComments": true,
+    "baseUrl": ".",
+    "rootDir": "src",
+    "allowJs": true
+  }
+}
